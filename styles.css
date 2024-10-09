@@ -22,7 +22,6 @@ header
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
     max-width: 800px; 
-     
     margin: 20px auto;
     flex-direction: column;
     display: flex; 
