@@ -3,7 +3,7 @@ body {
     padding: 20px;
     font-family: Arial, sans-serif;
     background-image: url('msa_platform.jpg');
-    background-size: cover;
+    background-size: cover; 
     background-position: center;
     background-repeat: no-repeat;
     min-height: 100vh;
