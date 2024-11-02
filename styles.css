@@ -8,7 +8,7 @@ body {
     background-repeat: no-repeat;
     min-height: 100vh;
 }
- 
+  
 header, nav, article, section {
     background: linear-gradient(to right, #e0f7fa, #b3e5fc);
     border-radius: 10px;
